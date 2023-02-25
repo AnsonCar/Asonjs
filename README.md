@@ -3,7 +3,7 @@
 </p>
 <h1 align="center"><b>Ason js</b></h1>
 
-<p align="center">前端JavaScrip框架t</p>
+<p align="center">前端JavaScrip框架</p>
 
 ## 理念
 
