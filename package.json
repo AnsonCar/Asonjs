@@ -1,0 +1,26 @@
+{
+  "name": "asonjs",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">     <img width=\"192px\" src=\"./docs/Logo/CY_Logo_Q2.png\" > </p> <h1 align=\"center\"><b>Template</b></h1>",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnsonCar/Asonjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnsonCar/Asonjs/issues"
+  },
+  "homepage": "https://github.com/AnsonCar/Asonjs#readme",
+  "dependencies": {
+    "vite": "^4.1.4"
+  }
+}

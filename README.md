@@ -1,12 +1,11 @@
 <p align="center">
     <img width="192px" src="./docs/Logo/CY_Logo_Q2.png" >
 </p>
-<h1 align="center"><b>Template</b></h1>
+<h1 align="center"><b>Ason js</b></h1>
 
-<p align="center">用於項目初始化</p>
+<p align="center">前端JavaScrip框架t</p>
 
 ## 理念
-希望有個統一格式，方便開發整理用。
 
 ## 特性
 
@@ -16,7 +15,7 @@
 │
 ├── LICENSE 開源證明
 ├── README.md 項目介紹
-├── start.sh 初始化文件
+│
 ├── docs 文檔
 │   ├── Logo
 │   └── changelog.md 開發日誌
@@ -31,15 +30,18 @@
 ## 使用
 ### 下載
 ```
-git clone 
+git clone https://github.com/AnsonCar/Asonjs.git
 ```
 ### 安裝所有依賴
 ```
-sh start.sh
+
 ```
 
 ## 內容包括
-no
+- 1
+- 2
+- 3
+- 4
 
 ## 查閱更多
 查看 []()  
